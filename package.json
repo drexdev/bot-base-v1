@@ -1,0 +1,20 @@
+{
+  "name": "bot-manager",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": {
+    "name": "Lucas",
+    "email": "compras@fywe.com.br",
+    "url": "https://discord.gg/fyweorg"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "consola": "^3.2.3",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "fast-glob": "^3.3.2",
+    "mysql2": "^3.9.3",
+    "path": "^0.12.7"
+  }
+}
